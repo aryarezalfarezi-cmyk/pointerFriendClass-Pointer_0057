@@ -11,3 +11,5 @@ public:
     void setnama(string pnama);
     friend class siswa;
 };
+class siswa
+{
